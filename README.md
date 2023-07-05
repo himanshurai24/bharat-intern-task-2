@@ -1,2 +1,2 @@
 # bharat-intern-task-2
-This repository contains 
+A simple website made using HTML, CSS, JavaScript that converts temperature given in Celsius into its Faranheit and Kelvin equivalent.
